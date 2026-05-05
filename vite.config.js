@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/pickfolio/',
+  base: '/react-web-drawer-platform/',
 })
